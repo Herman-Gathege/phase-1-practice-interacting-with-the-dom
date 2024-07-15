@@ -10,3 +10,6 @@ describe("", () => {
     });
   });
 });
+
+
+// <script src="js/index.min.js"></script>
